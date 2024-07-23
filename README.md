@@ -1,17 +1,17 @@
-# terraform
+# Terraform
 
-Deploy Dockerized Application to Google Cloud Run
+#Deploy Dockerized Application to Google Cloud Run
 
 This guide will help you set up and deploy a Dockerized "Hello World" application to Google Cloud Run using Terraform.
 
-Prerequisites:
+#Prerequisites:
 
 1.Google Cloud Account: Ensure you have an active Google Cloud account.
 2.Google Cloud SDK: Install and configure the Google Cloud SDK.
 3.Terraform: Install Terraform.
 4.Docker: Install Docker on your local machine.
 
-Setting Up Your Environment:
+#Setting Up Your Environment:
 
 1. Authenticate with Google Cloud
 
